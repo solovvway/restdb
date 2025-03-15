@@ -1,4 +1,4 @@
-package restdb
+package github.com/solovvway/restdb
 
 import (
 	"context"
